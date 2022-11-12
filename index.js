@@ -1,1 +1,1 @@
-init
+password="monmotdepasse"
